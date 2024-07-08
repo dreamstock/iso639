@@ -20,7 +20,7 @@ strum = ["dep:strum", "dep:strum_macros"]
 # --------------------------------------------------------------------
 [dependencies]
 # --------------------------------------------------------------------
-failure = "0.1.3"
+failure = "0.1.8"
 
 serde = { version = "1", optional = true }
 strum = { version = "0.24", optional = true }
